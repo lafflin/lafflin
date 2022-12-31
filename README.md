@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @lafflin
-- 👀 I’m interested in Back End Javascript
-- 🌱 I’m currently learning Full Stack Web Development
+- 👋 Hi, I’m Max McLaughlin
+- 👀 I’m interested in Front End Web Development
+- 🌱 I’m currently learning Typescript
+- 📚 My prefered stack is MERN
+- 🖥️ I am looking for a full-time position in Web Development
 - 📫 You can reach me at maxwelljmack@gmail.com
-
