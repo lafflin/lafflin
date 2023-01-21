@@ -2,6 +2,6 @@
 - 👀 I’m interested in Front End Web Development
 - 🏫 I Graduated from UC Berkley's Full Stack Web Development Bootcamp
 - 🌱 I’m currently learning Typescript and Python
-- 📚 My prefered stack is MERN
-- 🖥️ I am looking for a full-time position in Web Development
+- 📚 I prefer to use the MERN stack
+- 🖥️ I am looking for a full-time position as a web developer
 - 📫 You can reach me at maxwelljmack@gmail.com
