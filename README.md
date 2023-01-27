@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max McLaughlin
 - 👀 I’m interested in Front End Web Development
-- 🏫 I Graduated from UC Berkley's Full Stack Web Development Bootcamp
+- 🏫 I Graduated from UC Berkeley's Full Stack Web Development Bootcamp
 - 🌱 I’m currently learning Typescript and Python
 - 📚 I prefer to use the MERN stack
 - 🖥️ I am looking for employment in a full-time or intern position as a Web Developer
